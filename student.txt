@@ -1,0 +1,4 @@
+student.txt
+student name: Lisa Sai
+student number: 685874
+student class: IT1C
